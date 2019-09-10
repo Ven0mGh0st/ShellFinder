@@ -38,7 +38,7 @@ def main():
 
         
         ---------------------------------------------------------------
-        |                     GHOST EXPLOITER TEAM                    |
+        |                      G45 CYBER TEAM                         |
         |-------------------------------------------------------------|
         | AUTHOR           : VenomGhost [  ImamKun ]                  |
         | FACEBOOK         : Imam Ilyasa                              |
